@@ -1,0 +1,27 @@
+h5 {
+    font-size: 14px;
+}
+
+#msgem{
+    color: blue;
+
+}
+
+.imgdejogos {
+    width: 60px;
+    
+}
+
+ol h5 {
+    font-size: 30px;
+    font-weight: bold;
+    color:aqua
+}
+
+.site, #site {
+    color: red
+}
+
+.site{
+    font-weight: bold;
+}
